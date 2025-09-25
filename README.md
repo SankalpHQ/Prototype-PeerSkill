@@ -12,8 +12,9 @@ In today’s fast-paced world, learning new skills and improving existing ones i
 
 By providing a centralized hub for peer-to-peer learning, Peerskill empowers individuals to enhance their knowledge, gain practical experience, and grow professionally and personally.
 
-
-
+![Hero](images/HERO.png)
+![Chat](images/Chat.png)
+![Profile](images/Profile.png)
 
 ⸻
 
